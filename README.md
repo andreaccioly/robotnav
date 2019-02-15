@@ -1,4 +1,4 @@
-# robotnav
+# RobotNav
 Implementation of A* Algorithm to find the shortest path from a start node and a end node aronud polygons.
 The robot has to navigate its way around obstacles. Given a set of convex polygons in a plane that represent the obstacles, the robot has to find the shortest path around the polygons from a specified start point to a desired end point.
 Input:
